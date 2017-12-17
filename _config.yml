@@ -20,3 +20,4 @@ author: Michael Benford
 
 gems:
   - jekyll-feed
+theme: jekyll-theme-merlot
